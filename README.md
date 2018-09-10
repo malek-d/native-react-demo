@@ -1,6 +1,6 @@
 # native-react-demo
 
-##To run application
+## To run application
 1. npm install
 2. npm start || react-native run-android || react-native run-android
 if(npm start)
